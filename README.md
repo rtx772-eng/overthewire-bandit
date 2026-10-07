@@ -6,18 +6,27 @@
 
 | Level | Status | Password Found |
 |:---|:---|:---|
-| 0 | ✅ Complete | Yes |
 | 1 | ✅ Complete | Yes |
 | 2 | ✅ Complete | Yes |
 | 3 | ✅ Complete | Yes |
 | 4 | ✅ Complete | Yes |
-| 5-34 | ⏳ Coming soon | |
+| 5 | ✅ Complete | Yes |
+| 6 | ✅ Complete | Yes |
+| 7 | ✅ Complete | Yes |
+| 8 | ✅ Complete | Yes |
+| 9 | ✅ Complete | Yes |
+| 10 | ✅ Complete | Yes |
+| 11 | ✅ Complete | Yes |
+| 12 | ✅ Complete | Yes |
+| 13 | ✅ Complete | Yes |
+| 14 | ✅ Complete | Yes |
+| 15 | ✅ Complete | Yes |
+| 16-34 | ⏳ Coming soon | — |
 
 ## What's Inside
 
 Each level folder contains:
 - `README.md` - Commands used, solution steps, lessons learned
-- `password.txt` - The password for the next level
 
 ## What I Learned So Far
 
