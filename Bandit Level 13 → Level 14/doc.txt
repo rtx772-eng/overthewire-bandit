@@ -1,0 +1,20 @@
+                                              Bash Final Exam :
+
+
+
+
+
+1\ the shebang is #!/bin/bash and is for directing the system to search that script in the /bin/
+2\ the correct way : name="hacker" echo $name because when name = the system treat it like a commande not a variable
+3\ #!/bin/bash 
+   echo "what file"
+read file
+if [ -f $file ]; then
+ ls $file
+ cat $file 
+else
+echo "not found"
+4\ loops this variable x in 1 to 3 by writting line on each one 
+5\ if [ $name = "rtx" ]; then
+echo "welcome"
+fi 
